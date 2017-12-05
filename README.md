@@ -1,4 +1,4 @@
-[
+{
 "1": {
 name: "Thành phố Cần Thơ",
 districts: {
@@ -1012,4 +1012,4 @@ districts: {
 "767": "Thị xã Nghĩa Lộ"
 }
 }
-]
+}
