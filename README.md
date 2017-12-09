@@ -6,9 +6,6 @@
                     "name": "Thành phố Đà Nẵng"
           },
           {
-                    "name": "Thành phố Cần Thơ"
-          },
-          {
                     "name": "Thành phố Hà Nội"
           },
           {
@@ -96,7 +93,7 @@
                     "name": "Tỉnh Hưng Yên"
           },
           {
-                    "name": "Tỉnh Khánh HòaTỉnh Khánh Hòa"
+                    "name": "Tỉnh Khánh Hòa"
           },
           {
                     "name": "Tỉnh Kiên Giang"
